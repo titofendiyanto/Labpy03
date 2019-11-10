@@ -8,7 +8,7 @@ angka secara acak . fungsi random sdah otomatis ditampilkan.
 * 3. Ketika anda sudah memberikan input nilai, maka langsung akan muncul
 data nilai random.
 berikut hasilnya :
- ``![](masukan%20nila%20n.png)``
+ ![](masukan%20nila%20n.png)
 
 # Penjelasan latihan 2
 * 1. masukan bilngan 
@@ -18,7 +18,7 @@ berikut hasilnya :
 input. Untuk mencari bilangan terbesar banyaknya bilangan
 menggunakan fungsi max.
 Berikut hasilnya :
-``![](masukan%20bilangan.png)``
+![](masukan%20bilangan.png)
 
 # Penjelasan program1
 * 1. Modal awal pengusaha sebesar 100000000
@@ -30,4 +30,4 @@ yang telah dihitung berdasarkan presentasenya.
 * 4. Terakhir akan ditampilkan jumlah laba secara keseluruhan yang didapat
 dengan menggunakan sum.
 berikut hasilnya :
-``![](gambar%20progam%20awal%20seorang.png)``
+![](gambar%20progam%20awal%20seorang.png)
